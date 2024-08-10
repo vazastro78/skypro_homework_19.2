@@ -72,3 +72,12 @@ mkdir -p static/css static/js static/images
 ### Дополнительное задание
 
 - Реализуйте обработку сбора обратной связи от пользователя, который зашел на страницу контактов и отправил свои данные для обратной связи.
+
+#### github
+
+create repository on github and synchronize with offline repository
+```bash
+git remote add origin git@github.com:vazastro78/skypro_homework_19.2.git
+git branch -M main
+git push -u origin main
+```
